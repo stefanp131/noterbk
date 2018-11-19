@@ -1,0 +1,14 @@
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.API.deps.json
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.API.runtimeconfig.json
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.API.runtimeconfig.dev.json
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.API.dll
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.API.pdb
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.DAL.dll
+C:\Users\stefa\source\repos\Noter\Noter.API\bin\Debug\netcoreapp2.0\Noter.DAL.pdb
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.csproj.CopyComplete
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.dll
+C:\Users\stefa\source\repos\Noter\Noter.API\obj\Debug\netcoreapp2.0\Noter.API.pdb

@@ -1,0 +1,9 @@
+C:\Users\stefa\source\repos\Noter\Noter.DAL\bin\Debug\netstandard2.0\Noter.DAL.deps.json
+C:\Users\stefa\source\repos\Noter\Noter.DAL\bin\Debug\netstandard2.0\Noter.DAL.dll
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.AssemblyInfoInputs.cache
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.AssemblyInfo.cs
+C:\Users\stefa\source\repos\Noter\Noter.DAL\bin\Debug\netstandard2.0\Noter.DAL.pdb
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.dll
+C:\Users\stefa\source\repos\Noter\Noter.DAL\obj\Debug\netstandard2.0\Noter.DAL.pdb
